@@ -12,4 +12,4 @@ Como Rodar o Projeto:
 
 -> Crie a estrutura do banco: python db.py
 
-Execute o ETL para baixar os dados (Isso demora!): python etl.py
+-> Execute o ETL para baixar os dados (Isso demora!): python etl.py
